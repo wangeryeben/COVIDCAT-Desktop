@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+
+<qresource prefix="/resources">
+
+<file alias="ico.ico">resources/ico.ico</file>
+<file alias="ico.png">resources/ico.png</file>
+<file alias="InitialTemp1.png">resources/InitialTemp1.png</file>
+<file alias="InitialTemp2.png">resources/InitialTemp2.png</file>
+<file alias="InitialTemp3.png">resources/InitialTemp3.png</file>
+<file alias="Logo.png">resources/Logo.png</file>
+
+</qresource>
+
+</RCC>

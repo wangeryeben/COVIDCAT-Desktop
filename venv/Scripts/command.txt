@@ -1,0 +1,1 @@
+pyinstaller -F -w -i ico.ico Main.py -p resources_rc.py -p MainUI.py  -p C:\Users\qq199694\AppData\Local\Programs\Python\Python38\Lib\site-packages -p ico.ico --hidden-import ico --hidden-import MainUI --hidden-import resources_rc
